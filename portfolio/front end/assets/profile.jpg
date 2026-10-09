@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Front-End Profile Card</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="profile-card">
+    <img src="profile.jpg" alt="Developer Profile Picture" class="profile-img">
+    <h2>Alex Doe</h2>
+    <p class="role">Front-End Developer</p>
+    <p class="bio">Building responsive and modern web interfaces with HTML, CSS, and JavaScript.</p>
+    <a href="#" class="btn">Contact Me</a>
+  </div>
+
+</body>
+</html>
